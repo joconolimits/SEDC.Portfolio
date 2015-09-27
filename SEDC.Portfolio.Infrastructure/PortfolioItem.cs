@@ -10,9 +10,9 @@ namespace SEDC.Portfolio.Infrastructure
 {
     public class PortfolioItemRepository : BaseRepository<PortfolioItem>, IPortfolioItemRepository
     {
-        public PortfolioItemRepository(PortfolioDbContext context)
-            : base(context)
-        {
-        }
+        //public PortfolioItemRepository(PortfolioDbContext context)
+        //    : base()
+        //{
+        //}
     }
 }

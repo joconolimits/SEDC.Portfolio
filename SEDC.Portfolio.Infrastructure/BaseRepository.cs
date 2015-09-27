@@ -13,13 +13,14 @@ namespace SEDC.Portfolio.Infrastructure
     public class BaseRepository<TEntity> : IBaseRepository<TEntity>
         where TEntity : BaseEntity
     {
-        protected PortfolioDbContext _context;
+        //protected PortfolioDbContext _context;
 
-        public BaseRepository(PortfolioDbContext context)
-        {
-            _context = context;
-        }
+        //public BaseRepository(PortfolioDbContext context)
+        //{
+        //    _context = context;
+        //}
 
+        PortfolioDbContext _context = new PortfolioDbContext();
         public void Create(TEntity entity)
         {
             _context.Set<TEntity>().Add(entity);

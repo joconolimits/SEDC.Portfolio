@@ -10,9 +10,9 @@ namespace SEDC.Portfolio.Infrastructure
 {
     public class TagRepository : BaseRepository<Tag>, ITagRepository
     {
-        public TagRepository(PortfolioDbContext context)
-            : base(context)
-        {
-        }
+        //public TagRepository(PortfolioDbContext context)
+        //    : base()
+        //{
+        //}
     }
 }

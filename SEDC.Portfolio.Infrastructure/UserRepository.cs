@@ -10,9 +10,9 @@ namespace SEDC.Portfolio.Infrastructure
 {
     public class UserRepository : BaseRepository<User>, IUserRepository
     {
-        public UserRepository(PortfolioDbContext context)
-            : base(context)
-        {
-        }
+        //public UserRepository(PortfolioDbContext context)
+        //    : base()
+        //{
+        //}
     }
 }

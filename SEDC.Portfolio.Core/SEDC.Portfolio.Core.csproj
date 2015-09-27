@@ -48,6 +48,7 @@
     <Compile Include="Entities\Tag.cs" />
     <Compile Include="Entities\User.cs" />
     <Compile Include="Interfaces\IBaseRepository.cs" />
+    <Compile Include="Interfaces\IContext.cs" />
     <Compile Include="Interfaces\IJournalItemRepository.cs" />
     <Compile Include="Interfaces\IPortfolioItemRepository.cs" />
     <Compile Include="Interfaces\IServiceRepository.cs" />

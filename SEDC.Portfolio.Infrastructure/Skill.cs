@@ -10,9 +10,9 @@ namespace SEDC.Portfolio.Infrastructure
 {
     public class SkillRepository : BaseRepository<Skill>, ISkillRepository
     {
-        public SkillRepository(PortfolioDbContext context)
-            : base(context)
-        {
-        }
+        //public SkillRepository(PortfolioDbContext context)
+        //    : base()
+        //{
+        //}
     }
 }

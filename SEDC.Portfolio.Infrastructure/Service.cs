@@ -10,9 +10,9 @@ namespace SEDC.Portfolio.Infrastructure
 {
     public class ServiceRepository : BaseRepository<Service>, IServiceRepository
     {
-        public ServiceRepository(PortfolioDbContext context)
-            : base(context)
-        {
-        }
+        //public ServiceRepository(PortfolioDbContext context)
+        //    : base()
+        //{
+        //}
     }
 }
