@@ -1,0 +1,5 @@
+D:\SEDC code academy v3.0\IndividualProject2\SEDC.Portfolio\SEDC.Portfolio.Core\bin\Debug\SEDC.Portfolio.Core.dll
+D:\SEDC code academy v3.0\IndividualProject2\SEDC.Portfolio\SEDC.Portfolio.Core\bin\Debug\SEDC.Portfolio.Core.pdb
+D:\SEDC code academy v3.0\IndividualProject2\SEDC.Portfolio\SEDC.Portfolio.Core\obj\Debug\SEDC.Portfolio.Core.csprojResolveAssemblyReference.cache
+D:\SEDC code academy v3.0\IndividualProject2\SEDC.Portfolio\SEDC.Portfolio.Core\obj\Debug\SEDC.Portfolio.Core.dll
+D:\SEDC code academy v3.0\IndividualProject2\SEDC.Portfolio\SEDC.Portfolio.Core\obj\Debug\SEDC.Portfolio.Core.pdb
